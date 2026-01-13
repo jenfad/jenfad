@@ -1,4 +1,4 @@
-# **Hi, I'm Jennifer ✨ **
+# **Hi, I'm Jennifer ✨**
 
 I build **data products, metric systems, and analytics foundations** that help growing companies make clear, confident decisions without over-engineering.
 Most of my work sits at the intersection of **data modeling, BI architecture, metric standardization, workflow optimization, and analytics product strategy**.
@@ -38,7 +38,7 @@ I focus on **real-world clarity**: clean data pipelines, trustworthy dashboards,
 
 ---
 
-# **👩🏽‍💻 About Me**
+# **ℹ️ About Me**
 
 I’ve led data foundation work across complex teams spanning sales funnels, marketing pipelines, product analytics, and BI migrations.
 
@@ -51,7 +51,7 @@ My background spans analytics engineering, product management, data strategy, BI
 ---
 
 
-# **📫 Interests & Contributions**
+# ***️⃣ Interests & Contributions**
 
 I like contributing to:
 ✨ analytics product management
